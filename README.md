@@ -1,6 +1,5 @@
 # Data-Visualization
-Assignments
-ReadMe
+
 Interactive VTK program to exploree iso-surfaces of a volume data set.
 
 Users can interactively define iso-value using a slider (VTK  Slider widget).
